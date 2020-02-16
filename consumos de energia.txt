@@ -1,0 +1,21 @@
+pinheirinho com todas as luzes acessas
+35 A @ 12V
+
+Fita LED com 30 leds (tira de 50 cm)
+300 mA @ 5V
+
+Laser (par)
+40 mA @ 5V
+
+Raspberry Pi Zero W c/ mouse wireless
+450 mA @ 5V
+
+Wemos D1 Mini access point e web server
+50 mA @ 5V
+
+Arduino Nano
+20 mA 5V
+
+Mini pinheirinho
+410 mA @ 5V
+
